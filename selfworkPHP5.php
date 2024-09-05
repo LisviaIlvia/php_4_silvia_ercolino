@@ -1,5 +1,7 @@
 <?php
 
+// Selfwork PHP 5
+// Dato un array di numeri a scelta, scrivere un programma che calcoli la media solo dei numeri pari contenuti all’interno dell’array.
 
 $numbers = [15, 33, 30, 36, 38, 63, 64];
 
